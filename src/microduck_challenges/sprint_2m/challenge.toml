@@ -17,7 +17,7 @@ max   = 5.0
 
 [params.upright_reward]
 label = "Stay upright"
-value = 2.0
+value = 1.00306919642857
 min   = 0.5
 max   = 5.0
 
