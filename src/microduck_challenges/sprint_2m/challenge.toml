@@ -17,12 +17,12 @@ max   = 5.0
 
 [params.upright_reward]
 label = "Stay upright"
-value = 1.00306919642857
+value = 0.5
 min   = 0.5
 max   = 5.0
 
 [params.step_reward]
 label = "Lift your feet"
-value = 3.0
+value = 3.97433035714286
 min   = 0.0
 max   = 6.0
