@@ -23,6 +23,6 @@ max   = 5.0
 
 [params.step_reward]
 label = "Lift your feet"
-value = 3.97433035714286
+value = 0.978980654761905
 min   = 0.0
 max   = 6.0
